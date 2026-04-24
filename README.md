@@ -4,17 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpatil9957&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatil9957" /> </p>
 
 - 🌱 I’m currently learning **MERN stack - React.js, Express.js, MongoDB, Node.js**
-- 👨‍💻 All of my projects are available at [https://github.com/yashpatil9957/DevOps-Projects](https://github.com/yashpatil9957/DevOps-Projects)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/yashpatil9957/](https://www.linkedin.com/in/yashpatil9957/)
-
-- 📝 I regularly write Blogs on Medium .[https://medium.com/@yashpatil9957](https://medium.com/@yashpatil9957)
+  
+- 👨‍💻 All of my projects are available at [https://github.com/yashpatil9957?tab=repositories](https://github.com/yashpatil9957?tab=repositories)
 
 - 💬 Ask me about **C, CPP, MERN Stack, Data Structure, Linux-Basics**
 
 - 📫 You can reach me **yashspatil3103@gmail.com**
 
-### Blog Post
+// ### Blog Post
 
 <!-- BLOG-POST-LIST:START -->
 
