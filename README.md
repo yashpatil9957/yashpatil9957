@@ -11,7 +11,6 @@
 
 - 📫 You can reach me **yashspatil3103@gmail.com**
 
-// ### Blog Post
 
 <!-- BLOG-POST-LIST:START -->
 
