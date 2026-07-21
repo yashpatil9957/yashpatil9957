@@ -1,70 +1,84 @@
-<h1 align="center">Hi 👋, I'm Yashraj Patil</h1>
+# 👋 Hello, I'm Yashraj Patil
 
-<h3 align="center">
-Full Stack MERN Developer • C++ • DSA
-</h3>
+### Full Stack MERN Developer • C++ Programmer • DSA Enthusiast
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Real+World+MERN+Projects;Learning+System+Design;Always+Learning+Something+New"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yashpatil9957&style=flat-square"/>
-</p>
+> *Building real-world web applications while continuously improving my problem-solving skills.*
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Current Journey
 
-- 🎓 Third Year Information Technology Student
-- 🚀 Building Full Stack MERN Applications
-- 📚 Solving DSA using C++
-- 🌱 Currently learning Docker & System Design
-- 🎯 Preparing for Software Engineering Placements
+- 🎓 Final Year Information Technology Student
+- 💻 Building full-stack applications with the **MERN Stack**
+- 📚 Solving **Data Structures & Algorithms** using C++
+- 🎯 Passionate about creating scalable and user-friendly applications
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,tailwind,git,github,docker,postman,vscode"/>
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js" />
 </p>
 
----
+### Frontend
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🔍 LostLink | Lost & Found Platform |
-| 🌍 TripWeave | Collaborative Trip Planner |
-| 💼 WorkSphere | Employee Management System |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashpatil9957&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatil9957&layout=compact&theme=tokyonight"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yashpatil9957&theme=tokyonight"/>
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,linux" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🚀 Beyond the Code
 
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+- 📖 Reading and exploring emerging technologies.
+- 🤖 Curious about Machine Learning and AI.
+- 🌱 Lifelong learner, always adapting to new tools and technologies.
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+
+<a href="https://linkedin.com/in/yashraj-patil-8971572a4">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Yashraj_patil9957/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/yashpatil9957">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:yashspatil3103@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Keep learning. Keep building. Keep improving."*
+
+</div>
