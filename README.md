@@ -55,19 +55,19 @@
 
 <p>
 
-<a href="https://linkedin.com/in/yashraj-patil-8971572a4">
+<a href="https://linkedin.com/in/yashraj-patil-8971572a4" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Yashraj_patil9957/">
+<a href="https://leetcode.com/u/Yashraj_patil9957/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/yashpatil9957">
+<a href="https://github.com/yashpatil9957" target="_blank">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:yashspatil3103@gmail.com">
+<a href="mailto:yashspatil3103@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
